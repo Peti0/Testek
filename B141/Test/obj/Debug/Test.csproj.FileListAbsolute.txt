@@ -1,0 +1,7 @@
+C:\Users\szegedi.peter\Documents\2023.09.12\B141\B141\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\szegedi.peter\Documents\2023.09.12\B141\B141\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\szegedi.peter\Documents\2023.09.12\B141\B141\Test\bin\Debug\Test.exe.config
+C:\Users\szegedi.peter\Documents\2023.09.12\B141\B141\Test\bin\Debug\Test.exe
+C:\Users\szegedi.peter\Documents\2023.09.12\B141\B141\Test\bin\Debug\Test.pdb
+C:\Users\szegedi.peter\Documents\2023.09.12\B141\B141\Test\obj\Debug\Test.exe
+C:\Users\szegedi.peter\Documents\2023.09.12\B141\B141\Test\obj\Debug\Test.pdb
